@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/rlawlsdud1/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rlawlsdud1/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
