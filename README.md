@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rlawlsdud1/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0227-basic-calculator-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Sorting
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0227-basic-calculator-ii) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
