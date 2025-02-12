@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rlawlsdud1/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/rlawlsdud1/leetcode/tree/master/0322-coin-change) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
+| [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/rlawlsdud1/leetcode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rlawlsdud1/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/rlawlsdud1/leetcode/tree/master/0322-coin-change) |
+| [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
