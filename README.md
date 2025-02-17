@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rlawlsdud1/leetcode/tree/master/0322-coin-change) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/rlawlsdud1/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rlawlsdud1/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/rlawlsdud1/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0392-is-subsequence) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/rlawlsdud1/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Matrix
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/rlawlsdud1/leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/rlawlsdud1/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Breadth-First Search
 |  |
 | ------- |
