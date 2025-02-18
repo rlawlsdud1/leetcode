@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rlawlsdud1/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rlawlsdud1/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rlawlsdud1/leetcode/tree/master/0075-sort-colors) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rlawlsdud1/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rlawlsdud1/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rlawlsdud1/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rlawlsdud1/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rlawlsdud1/leetcode/tree/master/0070-climbing-stairs) |
@@ -127,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/rlawlsdud1/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
