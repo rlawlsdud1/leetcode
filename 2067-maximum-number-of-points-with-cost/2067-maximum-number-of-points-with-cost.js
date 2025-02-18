@@ -4,13 +4,14 @@
  */
 var maxPoints = function (points) {
   let prev = points[0];
-  const n = points.length;
-  const m = points[0].length;
+  let n = points.length,
+    m = points[0].length;
 
   for (let i = 1; i < n; i++) {
-    const left = Array.from({ length: m });
-    const right = Array.from({ length: m });
-    const current = Array.from({ length: m });
+    let curr = Array.from({ length: m });
+    let left = Array.from({ length: m });
+    let right = Array.from({ length: m });
+
     left[0] = prev[0];
     right[m - 1] = prev[m - 1];
 
@@ -23,10 +24,10 @@ var maxPoints = function (points) {
     }
 
     for (let j = 0; j < m; j++) {
-      current[j] = Math.max(left[j], right[j]) + points[i][j];
+      curr[j] = Math.max(left[j], right[j]) + points[i][j];
     }
 
-    prev = current;
+    prev = curr;
   }
 
   return Math.max(...prev);
