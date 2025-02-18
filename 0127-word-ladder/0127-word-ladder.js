@@ -17,7 +17,7 @@ var ladderLength = function (beginWord, endWord, wordList) {
     if (target === endWord) return count;
 
     for (let i = 0; i < wordList.length; i++) {
-      if (validateWord(target, wordList[i]) && !visited[i]) {
+      if (!visited[i] && validateWord(target, wordList[i])) {
         queue.push([wordList[i], count + 1]);
         visited[i] = true;
       }
