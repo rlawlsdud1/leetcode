@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rlawlsdud1/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rlawlsdud1/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rlawlsdud1/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Breadth-First Search
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
 | [0871-keys-and-rooms](https://github.com/rlawlsdud1/leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rlawlsdud1/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
 | [0871-keys-and-rooms](https://github.com/rlawlsdud1/leetcode/tree/master/0871-keys-and-rooms) |
+| [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rlawlsdud1/leetcode/tree/master/0200-number-of-islands) |
+| [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 ## Graph
 |  |
 | ------- |
