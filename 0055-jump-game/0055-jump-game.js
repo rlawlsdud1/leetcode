@@ -3,16 +3,12 @@
  * @return {boolean}
  */
 var canJump = function (nums) {
-  const dp = Array.from({ length: nums.length }).fill(false);
-  dp[0] = true;
+  // max는 가장 멀리 뻗을 수 있는 index를 의미한다
+  let maxIdx = 0;
 
   for (let i = 0; i < nums.length; i++) {
-    if (dp[i]) {
-      for (let j = i + 1; j <= i + nums[i] && j < nums.length; j++) {
-        dp[j] = true;
-      }
-    }
+    maxIdx = Math.max(maxIdx, nums[i] + i);
+    if (maxIdx >= nums.length - 1) return true;
+    if (maxIdx === i && nums[i] === 0) return false;
   }
-
-  return dp[nums.length - 1];
 };
