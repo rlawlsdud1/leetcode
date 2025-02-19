@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/rlawlsdud1/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rlawlsdud1/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rlawlsdud1/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0064-minimum-path-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/rlawlsdud1/leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rlawlsdud1/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rlawlsdud1/leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/rlawlsdud1/leetcode/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/rlawlsdud1/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/rlawlsdud1/leetcode/tree/master/0127-word-ladder) |
 | [0227-basic-calculator-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rlawlsdud1/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/rlawlsdud1/leetcode/tree/master/0075-sort-colors) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Binary Search
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rlawlsdud1/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/rlawlsdud1/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/rlawlsdud1/leetcode/tree/master/0127-word-ladder) |
 ## Divide and Conquer
 |  |
