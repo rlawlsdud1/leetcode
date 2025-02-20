@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0392-is-subsequence) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rlawlsdud1/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sorting
 |  |
 | ------- |
@@ -168,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rlawlsdud1/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rlawlsdud1/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
