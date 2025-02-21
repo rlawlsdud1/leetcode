@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rlawlsdud1/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rlawlsdud1/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/rlawlsdud1/leetcode/tree/master/0048-rotate-image) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rlawlsdud1/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/rlawlsdud1/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rlawlsdud1/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/rlawlsdud1/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rlawlsdud1/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rlawlsdud1/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rlawlsdud1/leetcode/tree/master/0055-jump-game) |
 ## Bit Manipulation
