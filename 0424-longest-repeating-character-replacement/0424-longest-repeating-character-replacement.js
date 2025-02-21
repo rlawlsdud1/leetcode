@@ -4,10 +4,10 @@
  * @return {number}
  */
 var characterReplacement = function (s, k) {
-  let left = 0;
+  let left = 0,
+    freqCount = 0,
+    answer = 0;
   const hashTable = {};
-  let freqCount = 0;
-  let answer = 0;
 
   for (let right = 0; right < s.length; right++) {
     if (hashTable[s[right]]) hashTable[s[right]] += 1;
@@ -15,12 +15,12 @@ var characterReplacement = function (s, k) {
 
     freqCount = Math.max(freqCount, hashTable[s[right]]);
 
-    while (right - left + 1 - k > freqCount) {
+    // 윈도우크기가 최빈값+k 보다 크다면 윈도우 크기를 줄여야한다
+    while (right - left + 1 > freqCount + k) {
       hashTable[s[left++]] -= 1;
     }
 
     answer = Math.max(answer, right - left + 1);
   }
-
   return answer;
 };
