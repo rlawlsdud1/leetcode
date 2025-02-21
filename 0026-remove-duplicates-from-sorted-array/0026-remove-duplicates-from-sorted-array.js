@@ -11,5 +11,5 @@ var removeDuplicates = function (nums) {
     }
   }
 
-  return nonDupPointer + 1;
+  return nums.slice(0, nonDupPointer + 1).length;
 };
