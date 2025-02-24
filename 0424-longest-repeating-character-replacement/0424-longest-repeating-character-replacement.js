@@ -16,6 +16,7 @@ var characterReplacement = function (s, k) {
 
     freqCnt = Math.max(freqCnt, hashTable[s[right]]);
 
+    // window의 크기가 더 크면 k개 바꿨을 때, repeating 불가능
     while (right - left + 1 > freqCnt + k) {
       hashTable[s[left++]] -= 1;
     }
