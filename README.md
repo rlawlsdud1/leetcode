@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rlawlsdud1/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rlawlsdud1/leetcode/tree/master/1428-jump-game-iii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rlawlsdud1/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rlawlsdud1/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rlawlsdud1/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Breadth-First Search
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
 | [0871-keys-and-rooms](https://github.com/rlawlsdud1/leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rlawlsdud1/leetcode/tree/master/1428-jump-game-iii) |
 ## Two Pointers
