@@ -4,10 +4,15 @@
  */
 var subsets = function (nums) {
   const answer = [];
-  function DFS(idx, path) {
+
+  function DFS(index, path) {
     answer.push([...path]);
 
-    for (let i = idx; i < nums.length; i++) {
+    if (index > nums.length - 1) {
+      return;
+    }
+
+    for (let i = index; i < nums.length; i++) {
       path.push(nums[i]);
       DFS(i + 1, path);
       path.pop();
@@ -15,5 +20,6 @@ var subsets = function (nums) {
   }
 
   DFS(0, []);
+
   return answer;
 };
