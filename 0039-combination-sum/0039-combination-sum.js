@@ -3,27 +3,29 @@
  * @param {number} target
  * @return {number[][]}
  */
-var combinationSum = function (candidates, target) {
-  let answer = new Set();
+var combinationSum = function(candidates, target) {
+  let answer = [];
 
-  function DFS(sum, path) {
-    if (sum >= target) {
-      if (sum === target) answer.add([...path].sort((a, b) => a - b).join(","));
+  candidates.sort((a, b) => a - b);
+
+  function DFS(start, sum, path) {
+    if (sum === target) {
+      answer.push([...path]); 
       return;
     }
 
-    for (let i = 0; i < candidates.length; i++) {
-      sum += candidates[i];
+    for (let i = start; i < candidates.length; i++) {
+      if (sum + candidates[i] > target) {
+        break;
+      }
+
       path.push(candidates[i]);
-      DFS(sum, path);
-      sum -= candidates[i];
-      path.pop();
+      DFS(i, sum + candidates[i], path); 
+      path.pop(); 
     }
   }
 
-  DFS(0, []);
-
-  answer = [...answer].map((v) => v.split(",").map(Number));
+  DFS(0, 0, []); 
 
   return answer;
 };
