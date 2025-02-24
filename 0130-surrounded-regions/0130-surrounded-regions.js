@@ -2,83 +2,42 @@
  * @param {character[][]} board
  * @return {void} Do not return anything, modify board in-place instead.
  */
-var solve = function (board) {
-  const directions = [
-    [1, 0],
-    [-1, 0],
-    [0, 1],
-    [0, -1],
-  ];
+var solve = function(board) {
+  if (!board || board.length === 0) return;
 
-  function DFS1(x, y) {
-    board[x][y] = "I";
+  const rows = board.length;
+  const cols = board[0].length;
 
-    for (let i = 0; i < 4; i++) {
-      const [nx, ny] = [x + directions[i][0], y + directions[i][1]];
+  // 경계에 있는 'O'와 연결된 모든 'O'를 찾아서 임시로 'I'로 표시
+  function DFS(x, y) {
+    if (x < 0 || x >= rows || y < 0 || y >= cols || board[x][y] !== 'O') {
+      return;
+    }
+    board[x][y] = 'I'; // 임시로 'I'로 표시
+    DFS(x + 1, y);
+    DFS(x - 1, y);
+    DFS(x, y + 1);
+    DFS(x, y - 1);
+  }
 
-      if (
-        nx >= 1 &&
-        ny >= 1 &&
-        nx < board.length - 1 &&
-        ny < board[0].length - 1 &&
-        board[nx][ny] === "O"
-      ) {
-        DFS1(nx, ny);
+  // 1. 경계에서 시작하여 'O'를 찾고, 연결된 모든 'O'를 'I'로 표시
+  for (let i = 0; i < rows; i++) {
+    if (board[i][0] === 'O') DFS(i, 0); // 왼쪽 경계
+    if (board[i][cols - 1] === 'O') DFS(i, cols - 1); // 오른쪽 경계
+  }
+  for (let j = 0; j < cols; j++) {
+    if (board[0][j] === 'O') DFS(0, j); // 위쪽 경계
+    if (board[rows - 1][j] === 'O') DFS(rows - 1, j); // 아래쪽 경계
+  }
+
+  // 2. 내부의 'O'를 'X'로 바꾸고, 'I'를 'O'로 복원
+  for (let i = 0; i < rows; i++) {
+    for (let j = 0; j < cols; j++) {
+      if (board[i][j] === 'O') {
+        board[i][j] = 'X'; // 내부의 'O'를 'X'로 바꿈
+      } else if (board[i][j] === 'I') {
+        board[i][j] = 'O'; // 임시로 표시한 'I'를 'O'로 복원
       }
     }
   }
-
-  for (let j = 0; j < board[0].length; j++) {
-    if (board[0][j] === "O") {
-      DFS1(0, j);
-    }
-    if (board[board.length - 1][j] === "O") {
-      DFS1(board.length - 1, j);
-    }
-  }
-
-  for (let i = 0; i < board.length; i++) {
-    if (board[i][0] === "O") {
-      DFS1(i, 0);
-    }
-    if (board[i][board[0].length - 1] === "O") {
-      DFS1(i, board[0].length - 1);
-    }
-  }
-
-  function DFS2(x, y) {
-    board[x][y] = "X";
-
-    for (let i = 0; i < 4; i++) {
-      const [nx, ny] = [x + directions[i][0], y + directions[i][1]];
-
-      if (
-        nx >= 1 &&
-        ny >= 1 &&
-        nx < board.length - 1 &&
-        ny < board[0].length - 1 &&
-        board[nx][ny] === "O"
-      ) {
-        DFS2(nx, ny);
-      }
-    }
-  }
-
-  for (let i = 1; i < board.length - 1; i++) {
-    for (let j = 1; j < board[0].length - 1; j++) {
-      if (board[i][j] === "O") {
-        DFS2(i, j);
-      }
-    }
-  }
-
-  for (let i = 0; i < board.length; i++) {
-    for (let j = 0; j < board[0].length; j++) {
-      if (board[i][j] === "I") {
-        board[i][j] = "O";
-      }
-    }
-  }
-
-  return board;
 };
