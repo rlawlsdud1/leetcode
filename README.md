@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rlawlsdud1/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/rlawlsdud1/leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/rlawlsdud1/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rlawlsdud1/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/rlawlsdud1/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0494-target-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rlawlsdud1/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Matrix
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rlawlsdud1/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/rlawlsdud1/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0494-target-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
