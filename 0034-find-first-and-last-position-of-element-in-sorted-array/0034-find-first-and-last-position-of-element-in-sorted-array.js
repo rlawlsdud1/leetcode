@@ -7,17 +7,18 @@ var searchRange = function (nums, target) {
   return [findStart(nums, target), findEnd(nums, target)];
 };
 
-function findStart(arr, target) {
+function findStart(nums, target) {
   let left = 0,
-    right = arr.length - 1,
+    right = nums.length - 1,
     start = -1;
 
   while (left <= right) {
     const mid = Math.floor((left + right) / 2);
-    if (arr[mid] === target) {
+
+    if (nums[mid] === target) {
       start = mid;
       right = mid - 1;
-    } else if (arr[mid] < target) {
+    } else if (nums[mid] < target) {
       left = mid + 1;
     } else {
       right = mid - 1;
@@ -27,17 +28,18 @@ function findStart(arr, target) {
   return start;
 }
 
-function findEnd(arr, target) {
+function findEnd(nums, target) {
   let left = 0,
-    right = arr.length - 1,
+    right = nums.length - 1,
     end = -1;
 
   while (left <= right) {
     const mid = Math.floor((left + right) / 2);
-    if (arr[mid] === target) {
+
+    if (nums[mid] === target) {
       end = mid;
       left = mid + 1;
-    } else if (arr[mid] < target) {
+    } else if (nums[mid] < target) {
       left = mid + 1;
     } else {
       right = mid - 1;
