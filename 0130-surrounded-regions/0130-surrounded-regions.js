@@ -2,42 +2,43 @@
  * @param {character[][]} board
  * @return {void} Do not return anything, modify board in-place instead.
  */
-var solve = function(board) {
-  if (!board || board.length === 0) return;
+var solve = function (board) {
+  // 테두리에서 DFS 돌려서 바깥이랑 연결돼있는 부분을 I로 바꾼다
+  // 마지막으로 board의 모든 원소를 순회하며
+  // I를 O로, O를 X로 바꾼다
+  const [n, m] = [board.length, board[0].length];
+  const directions = [
+    [1, 0],
+    [-1, 0],
+    [0, 1],
+    [0, -1],
+  ];
 
-  const rows = board.length;
-  const cols = board[0].length;
-
-  // 경계에 있는 'O'와 연결된 모든 'O'를 찾아서 임시로 'I'로 표시
   function DFS(x, y) {
-    if (x < 0 || x >= rows || y < 0 || y >= cols || board[x][y] !== 'O') {
-      return;
-    }
-    board[x][y] = 'I'; // 임시로 'I'로 표시
-    DFS(x + 1, y);
-    DFS(x - 1, y);
-    DFS(x, y + 1);
-    DFS(x, y - 1);
-  }
+    board[x][y] = "I";
 
-  // 1. 경계에서 시작하여 'O'를 찾고, 연결된 모든 'O'를 'I'로 표시
-  for (let i = 0; i < rows; i++) {
-    if (board[i][0] === 'O') DFS(i, 0); // 왼쪽 경계
-    if (board[i][cols - 1] === 'O') DFS(i, cols - 1); // 오른쪽 경계
-  }
-  for (let j = 0; j < cols; j++) {
-    if (board[0][j] === 'O') DFS(0, j); // 위쪽 경계
-    if (board[rows - 1][j] === 'O') DFS(rows - 1, j); // 아래쪽 경계
-  }
-
-  // 2. 내부의 'O'를 'X'로 바꾸고, 'I'를 'O'로 복원
-  for (let i = 0; i < rows; i++) {
-    for (let j = 0; j < cols; j++) {
-      if (board[i][j] === 'O') {
-        board[i][j] = 'X'; // 내부의 'O'를 'X'로 바꿈
-      } else if (board[i][j] === 'I') {
-        board[i][j] = 'O'; // 임시로 표시한 'I'를 'O'로 복원
+    for (let i = 0; i < 4; i++) {
+      const [nx, ny] = [x + directions[i][0], y + directions[i][1]];
+      if (nx >= 0 && ny >= 0 && nx < n && ny < m && board[nx][ny] === "O") {
+        DFS(nx, ny);
       }
+    }
+  }
+
+  for (let i = 0; i < n; i++) {
+    if (board[i][0] === "O") DFS(i, 0);
+    if (board[i][m - 1] === "O") DFS(i, m - 1);
+  }
+
+  for (let j = 0; j < m; j++) {
+    if (board[0][j] === "O") DFS(0, j);
+    if (board[n - 1][j] === "O") DFS(n - 1, j);
+  }
+
+  for (let i = 0; i < n; i++) {
+    for (let j = 0; j < m; j++) {
+      if (board[i][j] === "I") board[i][j] = "O";
+      else if (board[i][j] === "O") board[i][j] = "X";
     }
   }
 };
