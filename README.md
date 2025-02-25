@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/rlawlsdud1/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/rlawlsdud1/leetcode/tree/master/0792-binary-search) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rlawlsdud1/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/rlawlsdud1/leetcode/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
