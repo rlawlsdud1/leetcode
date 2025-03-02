@@ -4,20 +4,19 @@
  * @return {number}
  */
 var characterReplacement = function (s, k) {
-  let left = 0,
-    freqCnt = 0,
-    answer = 0;
-
   const hashTable = {};
+  let left = 0,
+    answer = 0,
+    freqCount = 0;
 
   for (let right = 0; right < s.length; right++) {
     if (hashTable[s[right]]) hashTable[s[right]] += 1;
     else hashTable[s[right]] = 1;
 
-    freqCnt = Math.max(freqCnt, hashTable[s[right]]);
+    freqCount = Math.max(freqCount, hashTable[s[right]]);
 
-    // window의 크기가 더 크면 k개 바꿨을 때, repeating 불가능
-    while (right - left + 1 > freqCnt + k) {
+    // 현재 윈도우에서 k개 바꿔도 조건 성립안하는 경우
+    while (right - left + 1 > freqCount + k) {
       hashTable[s[left++]] -= 1;
     }
 
