@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/rlawlsdud1/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/rlawlsdud1/leetcode/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/rlawlsdud1/leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/rlawlsdud1/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rlawlsdud1/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rlawlsdud1/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/rlawlsdud1/leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rlawlsdud1/leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/rlawlsdud1/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/rlawlsdud1/leetcode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/rlawlsdud1/leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rlawlsdud1/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/rlawlsdud1/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/rlawlsdud1/leetcode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/rlawlsdud1/leetcode/tree/master/0871-keys-and-rooms) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rlawlsdud1/leetcode/tree/master/1428-jump-game-iii) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rlawlsdud1/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rlawlsdud1/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rlawlsdud1/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/rlawlsdud1/leetcode/tree/master/0695-max-area-of-island) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 ## Graph
 |  |
