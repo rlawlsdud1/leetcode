@@ -5,21 +5,16 @@
 var subsets = function (nums) {
   const answer = [];
 
-  function DFS(index, path) {
+  function BT(idx, path) {
     answer.push([...path]);
-
-    if (index > nums.length - 1) {
-      return;
-    }
-
-    for (let i = index; i < nums.length; i++) {
+    for (let i = idx; i < nums.length; i++) {
       path.push(nums[i]);
-      DFS(i + 1, path);
+      BT(i + 1, path);
       path.pop();
     }
   }
 
-  DFS(0, []);
+  BT(0, []);
 
   return answer;
 };
