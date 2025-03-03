@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rlawlsdud1/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rlawlsdud1/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rlawlsdud1/leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/rlawlsdud1/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rlawlsdud1/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/rlawlsdud1/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rlawlsdud1/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0494-target-sum) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rlawlsdud1/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rlawlsdud1/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/rlawlsdud1/leetcode/tree/master/0792-binary-search) |
 ## Math
 |  |
