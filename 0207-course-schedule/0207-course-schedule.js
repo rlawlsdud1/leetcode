@@ -13,8 +13,8 @@ var canFinish = function (numCourses, prerequisites) {
     indegreeTable[a] += 1;
   });
 
-  let count = 0;
   const queue = [];
+  let count = 0;
   for (let i = 0; i < numCourses; i++) {
     if (!indegreeTable[i]) {
       queue.push(i);
@@ -24,10 +24,11 @@ var canFinish = function (numCourses, prerequisites) {
 
   while (queue.length) {
     const node = queue.shift();
+
     for (let i = 0; i < adjacantList[node].length; i++) {
       const adjacantNode = adjacantList[node][i];
-
       indegreeTable[adjacantNode] -= 1;
+
       if (!indegreeTable[adjacantNode]) {
         queue.push(adjacantNode);
         count++;
@@ -35,5 +36,5 @@ var canFinish = function (numCourses, prerequisites) {
     }
   }
 
-  return count === numCourses;
+  return numCourses === count;
 };
