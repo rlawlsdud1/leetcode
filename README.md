@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/rlawlsdud1/leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rlawlsdud1/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rlawlsdud1/leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/rlawlsdud1/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rlawlsdud1/leetcode/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/rlawlsdud1/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/rlawlsdud1/leetcode/tree/master/0127-word-ladder) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rlawlsdud1/leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/rlawlsdud1/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rlawlsdud1/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/rlawlsdud1/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rlawlsdud1/leetcode/tree/master/0070-climbing-stairs) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/rlawlsdud1/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0210-course-schedule-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/rlawlsdud1/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
