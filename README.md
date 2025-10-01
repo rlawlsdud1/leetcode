@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rlawlsdud1/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/rlawlsdud1/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rlawlsdud1/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/rlawlsdud1/leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/rlawlsdud1/leetcode/tree/master/0739-daily-temperatures) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rlawlsdud1/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/rlawlsdud1/leetcode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/rlawlsdud1/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/rlawlsdud1/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/rlawlsdud1/leetcode/tree/master/0940-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rlawlsdud1/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/rlawlsdud1/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Topological Sort
 |  |
 | ------- |
