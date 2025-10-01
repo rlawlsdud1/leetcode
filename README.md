@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/rlawlsdud1/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rlawlsdud1/leetcode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/rlawlsdud1/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/rlawlsdud1/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/rlawlsdud1/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rlawlsdud1/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rlawlsdud1/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rlawlsdud1/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/rlawlsdud1/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/rlawlsdud1/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rlawlsdud1/leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rlawlsdud1/leetcode/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/rlawlsdud1/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/rlawlsdud1/leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/rlawlsdud1/leetcode/tree/master/0139-word-break) |
 | [0227-basic-calculator-ii](https://github.com/rlawlsdud1/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rlawlsdud1/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rlawlsdud1/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/rlawlsdud1/leetcode/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rlawlsdud1/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/rlawlsdud1/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/rlawlsdud1/leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/rlawlsdud1/leetcode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/rlawlsdud1/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/rlawlsdud1/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/rlawlsdud1/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -290,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rlawlsdud1/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rlawlsdud1/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
