@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rlawlsdud1/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rlawlsdud1/leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/rlawlsdud1/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rlawlsdud1/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/rlawlsdud1/leetcode/tree/master/0455-assign-cookies) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rlawlsdud1/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rlawlsdud1/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rlawlsdud1/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rlawlsdud1/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/rlawlsdud1/leetcode/tree/master/0455-assign-cookies) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Binary Search
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/rlawlsdud1/leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/rlawlsdud1/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/rlawlsdud1/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rlawlsdud1/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/rlawlsdud1/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/rlawlsdud1/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/rlawlsdud1/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rlawlsdud1/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rlawlsdud1/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rlawlsdud1/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rlawlsdud1/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -295,10 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rlawlsdud1/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rlawlsdud1/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rlawlsdud1/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rlawlsdud1/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -307,4 +313,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rlawlsdud1/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rlawlsdud1/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rlawlsdud1/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
