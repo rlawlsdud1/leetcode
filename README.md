@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rlawlsdud1/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rlawlsdud1/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rlawlsdud1/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sorting
 |  |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rlawlsdud1/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/rlawlsdud1/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/rlawlsdud1/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rlawlsdud1/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rlawlsdud1/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
