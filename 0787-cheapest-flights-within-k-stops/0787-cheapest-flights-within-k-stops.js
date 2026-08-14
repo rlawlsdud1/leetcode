@@ -1,11 +1,3 @@
-/**
- * @param {number} n
- * @param {number[][]} flights
- * @param {number} src
- * @param {number} dst
- * @param {number} k
- * @return {number}
- */
 var findCheapestPrice = function (n, flights, src, dst, k) {
   class Heap {
     constructor(compare) {
@@ -42,15 +34,15 @@ var findCheapestPrice = function (n, flights, src, dst, k) {
       let idx = 0;
       while (1) {
         let best = idx;
-        const left = idx * 2 + 1;
-        const right = idx * 2 + 2;
+        const left = 2 * idx + 1;
+        const right = 2 * idx + 2;
 
         if (left < heap.length && this.compare(heap[left], heap[best]) < 0)
           best = left;
         if (right < heap.length && this.compare(heap[right], heap[best]) < 0)
           best = right;
 
-        if (best === idx) break;
+        if (idx === best) break;
 
         [heap[best], heap[idx]] = [heap[idx], heap[best]];
 
@@ -61,33 +53,31 @@ var findCheapestPrice = function (n, flights, src, dst, k) {
     }
   }
 
-  const graph = {};
-  flights.forEach((v) => {
-    const [from, to, price] = v;
-    graph[from] ? graph[from].push([to, price]) : (graph[from] = [[to, price]]);
-  });
-
   const pq = new Heap((a, b) => a[1] - b[1]);
-  pq.push([src, 0, 0]); // [시작 지점, 누적 비용, 카운팅]
+  pq.push([src, 0, 0]);
 
-  const dist = Array.from({ length: n + 1 }, () =>
-    Array.from({ length: k + 2 }).fill(Infinity),
+  const dist = Array.from({ length: n }, () =>
+    Array.from({ length: n }).fill(Infinity),
   );
   dist[src][0] = 0;
+
+  const graph = {};
+  flights.forEach((v) => {
+    const [a, b, cost] = v;
+    graph[a] ? graph[a].push([b, cost]) : (graph[a] = [[b, cost]]);
+  });
 
   while (pq.size() > 0) {
     const [node, cost, count] = pq.pop();
 
-    // dst가 발견된다면 count가 몇이든 그냥 최소 비용
     if (node === dst) return cost;
 
-    if (cost > dist[node][count]) continue;
+    if (dist[node][count] < cost) continue;
 
-    // dst가 아닌데 count가 초과된다면 버림
     if (count > k) continue;
 
-    for (const [next, price] of graph[node] || []) {
-      const nextCost = cost + price;
+    for (const [next, weight] of graph[node] || []) {
+      const nextCost = cost + weight;
 
       if (nextCost < dist[next][count + 1]) {
         dist[next][count + 1] = nextCost;
