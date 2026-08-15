@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rlawlsdud1/leetcode/tree/master/1428-jump-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rlawlsdud1/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Dynamic Programming
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/rlawlsdud1/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rlawlsdud1/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Breadth-First Search
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rlawlsdud1/leetcode/tree/master/1428-jump-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/rlawlsdud1/leetcode/tree/master/0792-binary-search) |
+| [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/rlawlsdud1/leetcode/tree/master/0871-keys-and-rooms) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rlawlsdud1/leetcode/tree/master/1428-jump-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -320,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rlawlsdud1/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/rlawlsdud1/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rlawlsdud1/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -356,4 +362,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/rlawlsdud1/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rlawlsdud1/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
