@@ -64,7 +64,7 @@ var maxDistance = function (grid) {
 
   const n = grid.length;
   const m = grid[0].length;
-  const pq = new Heap((a, b) => a[1] - b[1]);
+  const pq = new Heap((a, b) => a[2] - b[2]);
   const dist = Array.from({ length: n }, () =>
     Array.from({ length: m }).fill(Infinity),
   );
@@ -80,10 +80,13 @@ var maxDistance = function (grid) {
     }
   }
 
+  let answer = 0;
+
   while (pq.size() > 0) {
     const [x, y, distance] = pq.pop();
 
     if (distance > dist[x][y]) continue;
+    answer = distance;
 
     for (const [dx, dy] of directions) {
       const [nx, ny] = [x + dx, y + dy];
@@ -97,10 +100,5 @@ var maxDistance = function (grid) {
     }
   }
 
-  let answer = 0;
-  for (let i = 0; i < n; i++) {
-    answer = Math.max(answer, ...dist[i]);
-  }
-
-  return answer === 0 || answer === Infinity ? -1 : answer;
+  return answer === 0 ? -1 : answer;
 };
