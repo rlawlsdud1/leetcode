@@ -38,8 +38,8 @@ var minimumEffortPath = function (heights) {
       let idx = 0;
       while (1) {
         let best = idx;
-        const left = 2 * idx + 1;
-        const right = 2 * idx + 2;
+        const left = idx * 2 + 1;
+        const right = idx * 2 + 2;
 
         if (left < heap.length && this.compare(heap[left], heap[best]) < 0)
           best = left;
@@ -56,18 +56,18 @@ var minimumEffortPath = function (heights) {
       return top;
     }
   }
+
   const directions = [
     [1, 0],
     [-1, 0],
     [0, 1],
     [0, -1],
   ];
+  const n = heights.length;
+  const m = heights[0].length;
 
   const pq = new Heap((a, b) => a[2] - b[2]);
   pq.push([0, 0, 0]);
-
-  const n = heights.length;
-  const m = heights[0].length;
 
   const efforts = Array.from({ length: n }, () =>
     Array.from({ length: m }).fill(Infinity),
