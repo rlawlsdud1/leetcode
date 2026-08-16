@@ -3,26 +3,36 @@
  * @return {number}
  */
 var findCircleNum = function (isConnected) {
-  const visited = Array.from({ length: isConnected.length }).fill(false);
+  function DFS(node, graph, visited) {
+    for (const adjacantNode of graph[node] || []) {
+      if (!visited.has(adjacantNode)) {
+        visited.add(adjacantNode);
+        DFS(adjacantNode, graph, visited);
+      }
+    }
+  }
+  const graph = {};
+  const visited = new Set();
 
-  function DFS(node) {
-    for (let i = 0; i < isConnected[node].length; i++) {
-      if (!visited[i] && isConnected[node][i] === 1) {
-        visited[i] = true;
-        DFS(i);
+  const n = isConnected.length;
+
+  for (let i = 0; i < n; i++) {
+    for (let j = i + 1; j < n; j++) {
+      if (isConnected[i][j]) {
+        graph[i] ? graph[i].push(j) : (graph[i] = [j]);
+        graph[j] ? graph[j].push(i) : (graph[j] = [i]);
       }
     }
   }
 
-  let count = 0;
-
-  for (let i = 0; i < isConnected.length; i++) {
-    if (!visited[i]) {
-      visited[i] = true;
-      DFS(i);
-      count++;
+  let answer = 0;
+  for (let i = 0; i < n; i++) {
+    if (!visited.has(i)) {
+      visited.add(i);
+      DFS(i, graph, visited);
+      answer++;
     }
   }
 
-  return count;
+  return answer;
 };
