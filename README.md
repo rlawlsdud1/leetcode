@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rlawlsdud1/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/rlawlsdud1/leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/rlawlsdud1/leetcode/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/rlawlsdud1/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/rlawlsdud1/leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/rlawlsdud1/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0974-reorder-data-in-log-files](https://github.com/rlawlsdud1/leetcode/tree/master/0974-reorder-data-in-log-files) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/rlawlsdud1/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/rlawlsdud1/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/rlawlsdud1/leetcode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/rlawlsdud1/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/rlawlsdud1/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rlawlsdud1/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/rlawlsdud1/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/rlawlsdud1/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/rlawlsdud1/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rlawlsdud1/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/rlawlsdud1/leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rlawlsdud1/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rlawlsdud1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/rlawlsdud1/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0778-swim-in-rising-water](https://github.com/rlawlsdud1/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/rlawlsdud1/leetcode/tree/master/0792-binary-search) |
 | [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Math
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rlawlsdud1/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/rlawlsdud1/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/rlawlsdud1/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/rlawlsdud1/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rlawlsdud1/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/rlawlsdud1/leetcode/tree/master/0871-keys-and-rooms) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
@@ -324,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rlawlsdud1/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rlawlsdud1/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/rlawlsdud1/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/rlawlsdud1/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rlawlsdud1/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -365,9 +371,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/rlawlsdud1/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/rlawlsdud1/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/rlawlsdud1/leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
