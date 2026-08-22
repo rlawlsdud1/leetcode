@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/rlawlsdud1/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rlawlsdud1/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rlawlsdud1/leetcode/tree/master/1428-jump-game-iii) |
 | [1514-path-with-maximum-probability](https://github.com/rlawlsdud1/leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/rlawlsdud1/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rlawlsdud1/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rlawlsdud1/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/rlawlsdud1/leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/rlawlsdud1/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rlawlsdud1/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rlawlsdud1/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rlawlsdud1/leetcode/tree/master/1428-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/rlawlsdud1/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/rlawlsdud1/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rlawlsdud1/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rlawlsdud1/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/rlawlsdud1/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -366,12 +370,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rlawlsdud1/leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/rlawlsdud1/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rlawlsdud1/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rlawlsdud1/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/rlawlsdud1/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/rlawlsdud1/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rlawlsdud1/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rlawlsdud1/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/rlawlsdud1/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Union-Find
 |  |
@@ -383,10 +389,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/rlawlsdud1/leetcode/tree/master/0778-swim-in-rising-water) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rlawlsdud1/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/rlawlsdud1/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Minimax
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/rlawlsdud1/leetcode/tree/master/0778-swim-in-rising-water) |
+## 0-1 BFS
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rlawlsdud1/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
