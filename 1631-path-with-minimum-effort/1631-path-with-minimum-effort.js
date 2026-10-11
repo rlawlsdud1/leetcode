@@ -70,6 +70,8 @@ var minimumEffortPath = function(heights) {
 
         if(effort > efforts[x][y]) continue
 
+        if(x === n - 1 && y === m - 1) return effort
+
         for(const direction of directions) {
             const [nx, ny] = [x + direction[0], y + direction[1]]
 
