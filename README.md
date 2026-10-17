@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rlawlsdud1/leetcode/tree/master/1428-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3123-find-edges-in-shortest-paths](https://github.com/rlawlsdud1/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 ## Two Pointers
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/rlawlsdud1/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rlawlsdud1/leetcode/tree/master/1428-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3123-find-edges-in-shortest-paths](https://github.com/rlawlsdud1/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 ## Union Find
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rlawlsdud1/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/rlawlsdud1/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/rlawlsdud1/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3123-find-edges-in-shortest-paths](https://github.com/rlawlsdud1/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 ## Quickselect
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rlawlsdud1/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/rlawlsdud1/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/rlawlsdud1/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3123-find-edges-in-shortest-paths](https://github.com/rlawlsdud1/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 ## Shortest Path
 |  |
 | ------- |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rlawlsdud1/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/rlawlsdud1/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/rlawlsdud1/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3123-find-edges-in-shortest-paths](https://github.com/rlawlsdud1/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 ## Union-Find
 |  |
 | ------- |
